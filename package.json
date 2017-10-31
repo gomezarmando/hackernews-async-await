@@ -1,0 +1,18 @@
+{
+  "name": "news-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "luigomez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.15.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.1.1"
+  }
+}
